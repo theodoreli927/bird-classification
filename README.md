@@ -1,5 +1,3 @@
-# bird-classification
-
 # README
 
 This is a repository where I practiced with a TINYVGG neural network to familiarize myself with image recognition. 
